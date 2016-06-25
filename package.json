@@ -1,0 +1,23 @@
+{
+  "name": "own-fs-util",
+  "version": "1.0.4",
+  "description": "own fs util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xiyuyizhi/own-fs-util.git"
+  },
+  "keywords": [
+    "node",
+    "fs"
+  ],
+  "author": "xiyuyizhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiyuyizhi/oown-fs-util/issues"
+  },
+  "homepage": "https://github.com/xiyuyizhi/oown-fs-util#readme"
+}
